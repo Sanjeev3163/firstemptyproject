@@ -1,5 +1,5 @@
 function project(){
     let a= 10;
-    let b= 15;
+    let b= 20;
     console.log(a+b);
 }
